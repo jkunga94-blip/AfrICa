@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: africa-quiz-generator
+Version: 0.1.0
+Summary: Generate Africa-themed multiple-choice quiz datasets (JSON, SQLite, Excel).
+Requires-Python: >=3.10
+Requires-Dist: pandas
+Requires-Dist: openpyxl
