@@ -1,0 +1,18 @@
+[project]
+name = "africa-quiz-generator"
+version = "0.1.0"
+description = "Generate Africa-themed multiple-choice quiz datasets (JSON, SQLite, Excel)."
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "openpyxl",
+    "streamlit",
+]
+
+[project.scripts]
+africa-quiz-generate = "generate_africa_quiz_dataset:main"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+

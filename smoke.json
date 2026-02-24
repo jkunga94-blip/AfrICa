@@ -1,0 +1,1252 @@
+[
+    {
+        "id": 1,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "DR Congo",
+            "Algeria",
+            "Sudan",
+            "Nigeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 2,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Dodoma",
+            "Mombasa",
+            "Nairobi",
+            "Kampala"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 3,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Nelson Mandela",
+            "Jacob Zuma",
+            "Thabo Mbeki",
+            "Desmond Tutu"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 4,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Injera",
+            "Tagine",
+            "Jollof Rice",
+            "Fufu"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 5,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "DR Congo",
+            "Sudan",
+            "Nigeria",
+            "Algeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 6,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Dodoma",
+            "Mombasa",
+            "Kampala",
+            "Nairobi"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 7,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Thabo Mbeki",
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "Jacob Zuma"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 8,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Injera",
+            "Tagine",
+            "Fufu",
+            "Jollof Rice"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 9,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "Nigeria",
+            "Sudan",
+            "DR Congo",
+            "Algeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 10,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Mombasa",
+            "Nairobi",
+            "Kampala",
+            "Dodoma"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 11,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Thabo Mbeki",
+            "Nelson Mandela",
+            "Jacob Zuma",
+            "Desmond Tutu"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 12,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Jollof Rice",
+            "Injera",
+            "Tagine",
+            "Fufu"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 13,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "Sudan",
+            "Algeria",
+            "DR Congo",
+            "Nigeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 14,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Nairobi",
+            "Kampala",
+            "Dodoma",
+            "Mombasa"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 15,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Jacob Zuma",
+            "Desmond Tutu",
+            "Thabo Mbeki",
+            "Nelson Mandela"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 16,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Jollof Rice",
+            "Tagine",
+            "Injera",
+            "Fufu"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 17,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "DR Congo",
+            "Nigeria",
+            "Sudan",
+            "Algeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 18,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Mombasa",
+            "Nairobi",
+            "Kampala",
+            "Dodoma"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 19,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "Thabo Mbeki",
+            "Jacob Zuma"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 20,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Fufu",
+            "Jollof Rice",
+            "Injera",
+            "Tagine"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 21,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "Sudan",
+            "Nigeria",
+            "Algeria",
+            "DR Congo"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 22,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Mombasa",
+            "Nairobi",
+            "Kampala",
+            "Dodoma"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 23,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Nelson Mandela",
+            "Thabo Mbeki",
+            "Desmond Tutu",
+            "Jacob Zuma"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 24,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Injera",
+            "Tagine",
+            "Fufu",
+            "Jollof Rice"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 25,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "Algeria",
+            "DR Congo",
+            "Sudan",
+            "Nigeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 26,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Dodoma",
+            "Nairobi",
+            "Mombasa",
+            "Kampala"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 27,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Jacob Zuma",
+            "Thabo Mbeki",
+            "Nelson Mandela",
+            "Desmond Tutu"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 28,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Fufu",
+            "Jollof Rice",
+            "Injera",
+            "Tagine"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 29,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "DR Congo",
+            "Algeria",
+            "Sudan",
+            "Nigeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 30,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Mombasa",
+            "Kampala",
+            "Dodoma",
+            "Nairobi"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 31,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Nelson Mandela",
+            "Thabo Mbeki",
+            "Jacob Zuma",
+            "Desmond Tutu"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 32,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Jollof Rice",
+            "Tagine",
+            "Fufu",
+            "Injera"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 33,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "Sudan",
+            "DR Congo",
+            "Nigeria",
+            "Algeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 34,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Kampala",
+            "Nairobi",
+            "Dodoma",
+            "Mombasa"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 35,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Jacob Zuma",
+            "Nelson Mandela",
+            "Thabo Mbeki",
+            "Desmond Tutu"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 36,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Jollof Rice",
+            "Injera",
+            "Fufu",
+            "Tagine"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 37,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "Sudan",
+            "Algeria",
+            "Nigeria",
+            "DR Congo"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 38,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Dodoma",
+            "Nairobi",
+            "Mombasa",
+            "Kampala"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 39,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Desmond Tutu",
+            "Nelson Mandela",
+            "Jacob Zuma",
+            "Thabo Mbeki"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 40,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Injera",
+            "Tagine",
+            "Jollof Rice",
+            "Fufu"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 41,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "Nigeria",
+            "DR Congo",
+            "Sudan",
+            "Algeria"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 42,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Kampala",
+            "Mombasa",
+            "Dodoma",
+            "Nairobi"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 43,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Jacob Zuma",
+            "Desmond Tutu",
+            "Thabo Mbeki",
+            "Nelson Mandela"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 44,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Fufu",
+            "Tagine",
+            "Jollof Rice",
+            "Injera"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 45,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "DR Congo",
+            "Algeria",
+            "Nigeria",
+            "Sudan"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 46,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Kampala",
+            "Dodoma",
+            "Nairobi",
+            "Mombasa"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 47,
+        "category": "History & Civilizations",
+        "subcategory": "Independence",
+        "question": "Who became South Africa’s first Black president?",
+        "options": [
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "Jacob Zuma",
+            "Thabo Mbeki"
+        ],
+        "correct_answer": "Nelson Mandela",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "History & Civilizations",
+            "Independence",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 48,
+        "category": "Food & Cuisine",
+        "subcategory": "West Africa",
+        "question": "What West African rice dish is widely debated between Ghana and Nigeria?",
+        "options": [
+            "Jollof Rice",
+            "Tagine",
+            "Fufu",
+            "Injera"
+        ],
+        "correct_answer": "Jollof Rice",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Food & Cuisine",
+            "West Africa",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    },
+    {
+        "id": 49,
+        "category": "Geography & Landmarks",
+        "subcategory": "Countries",
+        "question": "What is the largest country in Africa by land area?",
+        "options": [
+            "Sudan",
+            "Algeria",
+            "Nigeria",
+            "DR Congo"
+        ],
+        "correct_answer": "Algeria",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Geography & Landmarks",
+            "Countries",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "id": 50,
+        "category": "Capitals",
+        "subcategory": "Capitals",
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Dodoma",
+            "Kampala",
+            "Mombasa",
+            "Nairobi"
+        ],
+        "correct_answer": "Nairobi",
+        "difficulty": "Easy",
+        "points": 10,
+        "xp_multiplier": 1,
+        "streak_bonus": 2,
+        "tags": [
+            "Capitals",
+            "Capitals",
+            "Easy",
+            "Africa",
+            "Multiple Choice"
+        ],
+        "flag_image": null
+    }
+]
