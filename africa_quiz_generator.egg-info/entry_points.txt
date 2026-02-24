@@ -1,2 +1,0 @@
-[console_scripts]
-africa-quiz-generate = generate_africa_quiz_dataset:main

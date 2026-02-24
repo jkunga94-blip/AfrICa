@@ -1,9 +1,0 @@
-README.md
-generate_africa_quiz_dataset.py
-pyproject.toml
-africa_quiz_generator.egg-info/PKG-INFO
-africa_quiz_generator.egg-info/SOURCES.txt
-africa_quiz_generator.egg-info/dependency_links.txt
-africa_quiz_generator.egg-info/entry_points.txt
-africa_quiz_generator.egg-info/requires.txt
-africa_quiz_generator.egg-info/top_level.txt
